@@ -3,12 +3,14 @@
  */
 'use strict';
 
+const odrlCtx = require('@digitalbazaar/odrl-context');
+
 module.exports = {
   '@context': [
     {
       '@version': 1.1
     },
-    'https://www.w3.org/ns/odrl.jsonld',
+    odrlCtx.CONTEXT_URL_V1,
     {
       ex: 'https://example.org/examples#',
       schema: 'http://schema.org/',
