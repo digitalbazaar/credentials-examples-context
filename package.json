@@ -29,7 +29,7 @@
     "@babel/plugin-transform-runtime": "^7.11.0",
     "@babel/preset-env": "^7.11.0",
     "@babel/runtime": "^7.11.0",
-    "@digitalbazaar/odrl-context": "github:digitalbazaar/odrl-context#initial",
+    "@digitalbazaar/odrl-context": "github:digitalbazaar/odrl-context#main",
     "babel-loader": "^8.1.0",
     "chai": "^4.2.0",
     "cross-env": "^7.0.2",
