@@ -1,6 +1,6 @@
 {
   "name": "@digitalbazaar/credentials-examples-context",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "VC Examples Context.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
