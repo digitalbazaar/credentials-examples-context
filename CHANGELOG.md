@@ -2,4 +2,5 @@
 
 ## 1.0.0 - 2023-TBD
 
-See git history for changes.
+- Initial version.
+- See git history for changes.
